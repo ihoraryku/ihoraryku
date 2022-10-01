@@ -2,9 +2,15 @@
 
 ##### Automated Control Systems Lead Engineer
 
+<h1 align="center">Hi there 👋, I'm Ihor</h1>
+<h3 align="center">Automated Control Systems Lead Engineer🏼‍💻</h3>
+
 - 🔭 I’m currently working on the commercial metering of electricity at solar power plants
 - 🌱 I’m currently learning Data Engineering
 - ⚡ Fun fact: I 💖 sci-fi, gym, soccer, table tennis
+
+<h1 align="center">Hi there 👋, I'm Ihor</h1>
+<h3 align="center">Automated Control Systems Lead Engineer🏼‍💻</h3>
 
 <!--
 **ihoraryku/ihoraryku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

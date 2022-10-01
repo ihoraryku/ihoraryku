@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋, I'm Ihor
+
+##### Automated Control Systems Lead Engineer
+
+- 🔭 I’m currently working on the commercial metering of electricity at solar power plants
+- 🌱 I’m currently learning Data Engineering
+- ⚡ Fun fact: I 💖 sci-fi, gym, soccer, table tennis
 
 <!--
 **ihoraryku/ihoraryku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
